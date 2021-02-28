@@ -1,0 +1,9 @@
+sensor1,67
+sensor2,34
+sensor2,19
+sensor1,56
+sensor1,27
+sensor3,17
+sensor3,35
+sensor2,35
+sensor1,22
